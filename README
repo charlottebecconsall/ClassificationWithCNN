@@ -1,0 +1,5 @@
+Download the CIFAR dataset for this project from an online location. The zipped file was too large to store here. 
+The dataset can be downloaded from https://www.cs.toronto.edu/~kriz/cifar.html
+
+The convolution functions were written manually for practice, it is recommended to use the tensorflow functions if 
+this model is going to be used for another application.
